@@ -1,0 +1,2 @@
+include ':presentation', ':domain', ':common', ':di', ':data'
+rootProject.name='CursoAppNuevo'
